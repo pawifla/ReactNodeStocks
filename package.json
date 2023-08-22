@@ -2,7 +2,7 @@
   "name": "ReactNodeStocks",
   "version": "1.0.0",
   "description": "",
-  "proxy":"http://localhost:3001",
+  "proxy": "http://localhost:3001",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^1.4.0",
+    "body-parser": "^1.20.2",
     "express": "^4.18.2",
     "node-fetch": "^2.6.13",
     "react-router-dom": "^6.15.0"
